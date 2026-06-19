@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Godari%20Jeshwanth&fontSize=40&fontColor=ffffff"/>
 </p>
 
-<h1 align="center">🔐 FULL STACK DEVELOPER | 💻 AIML
+<h1 align="center">⌨️ FULL STACK DEVELOPER | 💻 AIML
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=Frontend+Backend+Database;JAVA+Developer"/>
