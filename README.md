@@ -1,7 +1,7 @@
 # jeshwanth-s-
 profile
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Patil%20Ganesh&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Godari%20Jeshwanth&fontSize=40&fontColor=ffffff"/>
 </p>
 
 <h1 align="center">
