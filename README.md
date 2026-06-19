@@ -1,112 +1,165 @@
-# jeshwanth-s-
-profile
+```markdown
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Godari%20Jeshwanth&fontSize=40&fontColor=ffffff"/>
 </p>
 
 <h1 align="center">
-  👨‍🎓 Cybersecurity Student | Linux Enthusiast | Future Pentester
-</h2>
+  👨‍🎓 AI & ML Student | Python Developer | Future AI Engineer
+</h1>
 
 <p align="center">
-  🔐 Offensive Security • 🐧 Linux • 🌐 Networking • ⚙️ Automation
+  🤖 Artificial Intelligence • 📊 Machine Learning • 💻 Python • 🚀 Innovation
 </p>
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=Cybersecurity;Python+Developer;Linux+Power+User;Future+Pentester;CTF+Player;Secure+Code+Builder"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=700&lines=AI+%26+ML+Student;Python+Developer;Data+Science+Enthusiast;Future+AI+Engineer;Problem+Solver;Building+Intelligent+Systems" />
 </p>
 
 ---
 
-## 🧠 About Me
+# 🧠 About Me
 
-* 🎓 Tech student passionate about Cybersecurity + Development
-* 🛡️ Interested in ethical hacking & secure systems
-* 🐧 Linux daily user
-* ⚡ Fast learner and tool explorer
-* 🧪 Hands-on mindset → Practice > Theory
+🎓 B.Tech CSE (AI & ML) Student
+
+🤖 Passionate about Artificial Intelligence and Machine Learning
+
+💻 Python Developer and Problem Solver
+
+📈 Interested in Data Science and Analytics
+
+🚀 Exploring AI-powered applications and intelligent systems
+
+⚡ Practice > Theory
 
 ---
-## 🌐 Socials
+
+# 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://instagram.com/ganeshpatil_091">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="https://x.com/@Ganeshpatil917">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-  <a href="mailto:gp148454@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://linkedin.com/in/patilganesh64">
+  <a href="https://www.linkedin.com/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://github.com/ganeshpatil64">
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://github.com/">
     <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://instagram.com/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
 
-## 🔐 Cybersecurity Skills
+---
 
-* Networking (OSI, TCP/IP, Subnetting)
-* Web vulnerabilities basics (SQLi, XSS, CSRF)
-* Recon & scanning (Nmap)
-* Packet analysis (Wireshark)
-* Authentication concepts
+# 🤖 AI & Machine Learning Skills
+
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Computer Vision
+- Data Analysis
+- Data Visualization
+- Feature Engineering
 
 ---
 
-## 💻 Developer Stack
+# 💻 Programming Languages
 
-Languages: Python • C • C++ • JavaScript • Bash
-Frameworks: Flask • FastAPI • Django • Node.js • React
-Databases: MySQL • MongoDB • PostgreSQL • SQLite
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css" />
+</p>
 
 ---
 
-## 🛠 Tools
+# 🛠 Frameworks & Libraries
 
-Linux • Git • Burp Suite • Metasploit • Nmap • Postman
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flask,django,fastapi,tensorflow,pytorch,opencv,react,nodejs" />
+</p>
 
 ---
 
-## 🚀 Current Focus
+# 🗄 Databases
 
-* Building Python automation tools
-* Practicing CTF challenges
-* Learning Active Directory basics
-* Improving networking knowledge
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,sqlite" />
+</p>
 
 ---
-## 💻 Linux & Unix-based Experience
+
+# ☁️ Tools & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arch,kali,redhat,ubuntu,bsd,debian,emacs,gtk,mint,nix,qt,bash,neovim,vim,linux,git&perline=10" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,aws,firebase,postman" />
 </p>
 
-## 💻 Tech Stack
+---
+
+# 🚀 Featured Project
+
+## 🎙 VoxPlay – AI Voice-to-Notes Converter
+
+- Converts speech into structured notes
+- Summarizes lectures and meetings
+- AI-powered note generation
+- Generates important questions from PDFs and syllabus
+
+---
+
+# 🎯 Current Focus
+
+- Machine Learning
+- Deep Learning
+- Data Structures & Algorithms
+- NLP
+- Computer Vision
+- Software Development
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,anaconda,arduino,bootstrap,cloudflare,cmake,dart,vscode,electron,flutter,gcp,gradle,latex,md,maven,netlify,nginx,nodejs,notion,npm,bun,obsidian,opencv,pnpm,postman,pycharm,regex,replit,rust,scala,swift,vercel,heroku,go,powershell,lua,js,java,ts,sqlite,tailwind,tensorflow,threejs,vite,vscodium,wordpress,zig,selenium,react,html,css,django,flask,fastapi,mysql,postgres,mongodb,supabase,aws,azure,firebase,docker,kubernetes&perline=10" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="center" style="color:#00ddff; font-weight:600; font-size:1.25em;">
-  <i>“Security is not a product, but a process.”</i>
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&row=1&column=7" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Artificial Intelligence is transforming the world, one model at a time."</i>
 </p>
 
 <p align="center">
-<b>“First build it. Then secure it.” 🔐</b>
+  <b>Code • Learn • Build • Innovate 🤖🚀</b>
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 </p>
-# 📊 GitHub Activity
-
-## 📊 Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ganeshpatil64&theme=github-dark)
-
-
-
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=ganeshpatil64&theme=onedark&hide_border=true)
+```
